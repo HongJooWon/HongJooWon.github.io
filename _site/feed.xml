@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>Chirpy</title>
   <subtitle>A minimal, responsive, and powerful Jekyll theme for presenting professional writing.</subtitle>
-  <updated>2022-09-19T12:24:13+08:00</updated>
+  <updated>2022-09-19T21:38:20+09:00</updated>
   <author>
     <name>your_full_name</name>
     <uri>http://localhost:4000/</uri>
@@ -22,9 +22,9 @@
   <entry>
     <title>Welcome to Jekyll!</title>
     <link href="http://localhost:4000/posts/welcome-to-jekyll/" rel="alternate" type="text/html" title="Welcome to Jekyll!" />
-    <published>2022-09-19T12:22:33+08:00</published>
+    <published>2022-09-19T13:22:33+09:00</published>
   
-    <updated>2022-09-19T12:22:33+08:00</updated>
+    <updated>2022-09-19T13:22:33+09:00</updated>
   
     <id>http://localhost:4000/posts/welcome-to-jekyll/</id>
     <content src="http://localhost:4000/posts/welcome-to-jekyll/" />
@@ -62,9 +62,9 @@ YEAR-MONTH-DAY-title.MAR...
   <entry>
     <title>Enable Google Page Views</title>
     <link href="http://localhost:4000/posts/enable-google-pv/" rel="alternate" type="text/html" title="Enable Google Page Views" />
-    <published>2021-01-04T07:32:00+08:00</published>
+    <published>2021-01-04T08:32:00+09:00</published>
   
-    <updated>2021-01-04T07:32:00+08:00</updated>
+    <updated>2021-01-04T08:32:00+09:00</updated>
   
     <id>http://localhost:4000/posts/enable-google-pv/</id>
     <content src="http://localhost:4000/posts/enable-google-pv/" />
@@ -102,9 +102,9 @@ Create GA account a...
   <entry>
     <title>Customize the Favicon</title>
     <link href="http://localhost:4000/posts/customize-the-favicon/" rel="alternate" type="text/html" title="Customize the Favicon" />
-    <published>2019-08-11T00:34:00+08:00</published>
+    <published>2019-08-11T01:34:00+09:00</published>
   
-    <updated>2019-08-11T00:34:00+08:00</updated>
+    <updated>2019-08-11T01:34:00+09:00</updated>
   
     <id>http://localhost:4000/posts/customize-the-favicon/</id>
     <content src="http://localhost:4000/posts/customize-the-favicon/" />
@@ -142,9 +142,9 @@ Prepare a square image (PNG, JPG, or SVG) with a size of 512x512 or more, and th
   <entry>
     <title>Getting Started</title>
     <link href="http://localhost:4000/posts/getting-started/" rel="alternate" type="text/html" title="Getting Started" />
-    <published>2019-08-09T20:55:00+08:00</published>
+    <published>2019-08-09T21:55:00+09:00</published>
   
-    <updated>2019-08-09T20:55:00+08:00</updated>
+    <updated>2019-08-09T21:55:00+09:00</updated>
   
     <id>http://localhost:4000/posts/getting-started/</id>
     <content src="http://localhost:4000/posts/getting-started/" />
@@ -190,9 +190,9 @@ There are two ways to create a new repository for this theme:
   <entry>
     <title>Writing a New Post</title>
     <link href="http://localhost:4000/posts/write-a-new-post/" rel="alternate" type="text/html" title="Writing a New Post" />
-    <published>2019-08-08T14:10:00+08:00</published>
+    <published>2019-08-08T15:10:00+09:00</published>
   
-    <updated>2019-08-08T14:10:00+08:00</updated>
+    <updated>2019-08-08T15:10:00+09:00</updated>
   
     <id>http://localhost:4000/posts/write-a-new-post/</id>
     <content src="http://localhost:4000/posts/write-a-new-post/" />
